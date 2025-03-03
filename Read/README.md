@@ -1,6 +1,6 @@
 # Social Media Marketing & Consumer Purchasing Behaviour Analysis (2024)
 
-## About This Project
+## About This Project.
 
 My name is John, and I am a small business owner operating a fruit juice company in Brisbane, Queensland, Australia.
 
